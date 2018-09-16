@@ -14,7 +14,7 @@ import org.tonyhsu17.shanaProjectParser.poms.SeriesInfo;
 
 
 /**
- * HTML Parser for user's public feed on http://shanaproject.com.
+ * API for ShanaProject. HTML Parser for user's public feed on http://shanaproject.com.
  * 
  * @author Tony Hsu
  *

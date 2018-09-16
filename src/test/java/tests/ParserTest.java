@@ -10,7 +10,12 @@ import org.tonyhsu17.shanaProjectParser.poms.Season;
 import org.tonyhsu17.shanaProjectParser.poms.SeriesInfo;
 
 
-
+/**
+ * Unit Tests for {@link ShanaProjectParser}
+ * 
+ * @author Tony Hsu
+ *
+ */
 public class ParserTest {
 
     @Test
@@ -18,7 +23,7 @@ public class ParserTest {
 
         String url = "http://www.shanaproject.com/user/ikersaro/";
         List<Season> seasons = ShanaProjectParser.parse(url);
-
+        
         SoftAssert softAssert = new SoftAssert();
         for(Season season : seasons) {
             switch (season.getSeason()) {
