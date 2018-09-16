@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/tonyhsu17/HelpfulUtitlies.svg)](https://jitpack.io/#tonyhsu17/HelpfulUtitlies)
+[![Release](https://jitpack.io/v/tonyhsu17/ShanaProjectParser.svg)](https://jitpack.io/#tonyhsu17/ShanaProjectParser)
 # Shana Project Parser
 API for ShanaProject. HTML Parser for user's public feed on http://shanaproject.com.
 
